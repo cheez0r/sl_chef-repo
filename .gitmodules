@@ -1,6 +1,3 @@
-[submodule "cookbooks"]
-	path = cookbooks
-	url = git@github.com:cheez0r/sl_cookbooks.git
 [submodule "data_bags"]
 	path = data_bags
 	url = git@github.com:cheez0r/sl_data_bags.git
