@@ -7,3 +7,6 @@
 [submodule "roles"]
 	path = roles
 	url = https://github.com/cheez0r/sl_roles
+[submodule "cookbooks"]
+	path = cookbooks
+	url = https://github.com/cheez0r/sl_cookbooks
