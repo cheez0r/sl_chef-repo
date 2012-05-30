@@ -4,9 +4,6 @@
 [submodule "nodes"]
 	path = nodes
 	url = https://github.com/cheez0r/sl_nodes.git
-[submodule "cookbooks"]
-	path = cookbooks
-	url = https://github.com/cheez0r/sl_cookbooks.git
 [submodule "roles"]
 	path = roles
 	url = https://github.com/cheez0r/sl_roles
